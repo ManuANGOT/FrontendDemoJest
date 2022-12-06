@@ -1,6 +1,6 @@
 import bonjour from ".";
 
-describe("bonjour", () => {
+describe("Je vais tester bonjour", () => {
     it("should return 'Bonjour'", () => {
         expect(bonjour()).toBe("Bonjour");
     });
